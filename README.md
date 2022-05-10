@@ -1,5 +1,5 @@
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> 
   </a>
@@ -24,8 +24,5 @@
    <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
     <img src="https://spng.subpng.com/20180406/hge/kisspng-angularjs-web-development-web-application-progress-books-5ac74074a37fa7.3372676315230076046697.jpg"   alt="Angular" width="70" height="70"/> 
   </a> 
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="70" height="70"/> 
-  </a>
 </p>
 
