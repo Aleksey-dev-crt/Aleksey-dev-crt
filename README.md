@@ -22,7 +22,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png"   alt="sass" width="70" height="70"/> 
   </a>   
    <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://spng.subpng.com/20180406/hge/kisspng-angularjs-web-development-web-application-progress-books-5ac74074a37fa7.3372676315230076046697.jpg"   alt="Angular" width="70" height="70"/> 
+    <img src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png"   alt="Angular" width="70" height="70"/> 
   </a> 
 </p>
 
