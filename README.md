@@ -7,7 +7,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> 
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png"   alt="sass" width="70" height="70"/> 
+    <img src="https://sass-scss.ru/assets/img/styleguide/seal-color-aef0354c.png"   alt="sass" width="70" height="70"/> 
   </a>  
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/> 
