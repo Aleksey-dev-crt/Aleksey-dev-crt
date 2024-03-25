@@ -24,5 +24,11 @@
    <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
     <img src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png"   alt="Angular" width="70" height="70"/> 
   </a> 
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"   alt="Vue" width="70" height="70"/> 
+  </a>
+  <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/800px-Pinialogo.svg.png"   alt="Vue" width="70" height="70"/> 
+  </a>   
 </p>
 
