@@ -21,8 +21,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="sass" width="70" height="70"/> 
   </a>   
-   <a href="https://angular.io/" target="blank" rel="noopener noreferrer"> 
-    <img src="https://w7.pngwing.com/pngs/549/955/png-transparent-angularjs-javascript-jquery-directive-python-software-foundation-angle-triangle-logo.png" alt="Angular" width="70" height="70"/> 
+   <a href="https://angular.io/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" width="70" height="70"/> 
   </a> 
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue" width="70" height="70"/> 
