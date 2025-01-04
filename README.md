@@ -20,10 +20,11 @@
   </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="sass" width="70" height="70"/> 
-  </a>   
-   <a href="https://angular.io/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" width="70" height="70"/> 
-  </a> 
+  </a>  
+  
+    [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" width="70" height="70"/> ](https://angular.io/){:target="_blank" rel="noopener"}
+    
+  
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue" width="70" height="70"/> 
   </a>
